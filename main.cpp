@@ -23,7 +23,7 @@ int main()
     else
     {
     	cout << "Division: " << x / y << endl;
-		cout << "Remainder: " << x % y << endl;
+	cout << "Remainder: " << x % y << endl;
     }
 
     //cout << "Division: " << x / y << endl;
